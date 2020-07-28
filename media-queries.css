@@ -7,8 +7,8 @@
   .wrapper {width 750px;
 	}
 	
-	#bodyu.style
-	{transform: scaleY(0.5);}
+	.mashtab
+	{transform: scale(0,7, 0.5);}
 
 /*small Devices, Tablets*/
 
