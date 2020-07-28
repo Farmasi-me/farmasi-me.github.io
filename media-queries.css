@@ -1,18 +1,28 @@
-@media screen and (orientation:landscape) and (max-device-width: 900px) {
-    html{
-        -webkit-transform: rotate(-90deg);
-           -moz-transform: rotate(-90deg);
-            -ms-transform: rotate(-90deg);
-             -o-transform: rotate(-90deg);
-                transform: rotate(-90deg);
-        -webkit-transform-origin: left top;
-           -moz-transform-origin: left top;
-            -ms-transform-origin: left top;
-             -o-transform-origin: left top;
-                transform-origin: left top;
-        width: 320px; 
-        position: absolute;
-        top: 100%;
-            left: 0
-    }
-}
+
+
+/*medium Devices, Desktops*/
+
+@media only screen and (max-width: 992px) {
+	
+  .wrapper {width 750px;
+	}
+	
+	#bodyu.style
+	{transform: scaleY(0.5);}
+
+/*small Devices, Tablets*/
+
+@media only screen and (max-width: 768px)  {
+	.wrapper {width 450px;}
+
+
+
+/*Extra small Devices, Phones*/
+
+@media only screen and (max-width: 480px) {
+	.wrapper {width 320px;}
+
+
+
+
+
