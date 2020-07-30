@@ -1,14 +1,18 @@
 
 
-@media only screen and (max-width: 1600px)
+@media only screen and (max-width: 992px)
  .wrapper 
   {width: 140%;
   }
 
 
-@media only screen and (max-width: 900px)
+@media only screen and (max-width:768px)
  .wrapper 
   {width: 170%;
   }
 
+@media only screen and (max-width: 480px) 
+	.wrapper 
+	{width: 200%;
+  }
 
