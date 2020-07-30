@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-30_1924",
+    "name": "Farmasi",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -40,6 +40,13 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/share-128x67-1.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 23,
     "versionPublish": "4.12.3"
   },
