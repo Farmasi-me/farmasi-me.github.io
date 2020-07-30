@@ -2,49 +2,13 @@
 
 @media only screen and (max-width: 1600px)
  .wrapper 
-  {width: 200%;
+  {width: 140%;
   }
 
 
-
-
-
-@media only screen and (max-width: 1242px)
-	
-  .wrapper 
-  {width: 230%;
-  margin: 5%}
-
-
-
-
-
-/*medium Devices, Desktops*/
-
-@media only screen and (max-width: 992px) 
-	
-  .wrapper 
-  {width: 260%;
-  margin: 10%}
-	
-
-/*small Devices, Tablets*/
-
-@media only screen and (max-width: 768px)  
-	.wrapper 
-	{width: 290%;
-  margin: 15%}
-
-
-
-/*Extra small Devices, Phones*/
-
-@media only screen and (max-width: 480px) 
-	.wrapper 
-	{width: 300%;
-  margin: 20%}
-
-
-
+@media only screen and (max-width: 900px)
+ .wrapper 
+  {width: 170%;
+  }
 
 
