@@ -1,11 +1,21 @@
 
 
+@media only screen and (max-width: 1242px)
+	
+  .wrapper 
+  {width: 120%;
+  }
+
+
+
+
+
 /*medium Devices, Desktops*/
 
 @media only screen and (max-width: 992px) 
 	
   .wrapper 
-  {width: 100%;
+  {width: 130%;
   }
 	
 
@@ -13,7 +23,7 @@
 
 @media only screen and (max-width: 768px)  
 	.wrapper 
-	{width: 110%;
+	{width: 140%;
   }
 
 
@@ -22,7 +32,7 @@
 
 @media only screen and (max-width: 480px) 
 	.wrapper 
-	{width: 125%;
+	{width: 150%;
   }
 
 
