@@ -132,8 +132,8 @@ margin-left: 60px;
      color: #860D2D}
 
 .hr_1
-{color:linear-gradient(to top, #00FFEF, #fff);
-size:20px;}
+{border-color:linear-gradient(to top, #00FFEF, #fff);
+border-width:20px;}
 
 #conteiner_0.fon_perevagy
 {padding-top:40px;
