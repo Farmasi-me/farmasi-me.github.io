@@ -153,8 +153,8 @@ position: absolute;
 margin-left: 100px}
 
    #1.fon_perevagy
-   {width: 200px;
-   height:200px;}
+   {width: 100px;
+   height:100px;}
 
    #text_0.fon_perevagy
    {font-family: Tahoma;
@@ -174,7 +174,7 @@ background: #cf0b0c;
 width: 300px;
 text-align:center;
 padding-top:10%;
-margin-left:38%;
+margin-left:45%;
 position: absolute;}
 
 #conteiner_3.fon_perevagy_3
@@ -184,7 +184,7 @@ background: #cf0b0c;
 width: 300px;
 text-align:center;
 padding-top:8%;
-margin-left:67%;
+margin-left:72%;
 position: absolute;}
 
 #conteiner_4.fon_perevagy_4
@@ -210,7 +210,7 @@ width: 300px;
 text-align:center;
 padding-top:0;
 position: relative;
-margin-left:38%;
+margin-left:45%;
 margin-top:35%;
 position: absolute; }
 
@@ -224,7 +224,7 @@ width: 300px;
 text-align:center;
 padding-top:0;
 position: relative;
-margin-left:67%;
+margin-left:72%;
 margin-top:35% ;
 position: absolute;}
 
@@ -283,8 +283,8 @@ margin-left: 67%}
 
 
 #2.fon_perevagy
-{height: 300px;
-width: 200px;}
+{height: 200px;
+width: 100px;}
 
     .text_20
     {font-family: Tahoma;
