@@ -1,12 +1,13 @@
+.wrapper
+{width:1330px;
+}
+
+
 .body_0 {
 background-image: url(background.jpg);
 background-repeat: no-repeat;
 background-size:100%;
 height: 700px;
-}
-
-.wrapper
-{width:1330px;
 }
 
 .header
