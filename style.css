@@ -246,7 +246,7 @@ position: absolute;}
 
 
 #conteiner_11.fon_perevagy
-{margin-top: 150px;
+{margin-top: 0;
 background: #3d4f77;
 width: 100%;
 margin-left:0px;
@@ -325,7 +325,7 @@ margin-bottom:300px}
 .Podarunki
 {width: 800px;
 margin-left:20%;
-margin-top:300px;
+margin-top:-200px;
 background: #fff;
 background-size: 100%}
 
