@@ -734,7 +734,8 @@
               "color": "#ffffff"
             },
             ".mbr-text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             ".card-title": {
               "color": "#ffffff"
