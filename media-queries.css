@@ -6,8 +6,8 @@
 	
   .wrapper 
   {width 750px;
-   margin-left: 1%;
-   margin-right:1%; }
+   margin: 50% auto;
+  }
 	
 
 /*small Devices, Tablets*/
@@ -15,9 +15,8 @@
 @media only screen and (max-width: 768px)  
 	.wrapper 
 	{width 450px;
-	margin-left: 1%;
-        margin-right:1%;
-	}
+	  margin: 50% auto;
+  }
 
 
 
@@ -26,9 +25,8 @@
 @media only screen and (max-width: 480px) 
 	.wrapper 
 	{width 320px;
-	margin-left: 1%;
-        margin-right:1%;
-	}
+	  margin: 50% auto;
+  }
 
 
 
