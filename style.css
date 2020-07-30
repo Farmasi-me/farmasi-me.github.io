@@ -299,7 +299,7 @@ background: #fff;
 width: 100%;
 height: 900px;
 margin-left: 0;
-margin-bottom:-200px}
+margin-bottom:0}
 
     .button_6
     {font-family: Times New Roman;
@@ -325,9 +325,10 @@ margin-bottom:-200px}
 .Podarunki
 {width: 800px;
 margin-left:25%;
-margin-top:500px;
+margin-top:0;
 background: #fff;
-background-size: 100%}
+background-size: 100%;
+padding-top: 100px}
 
      #podarok.Podarunki
      {font-family: Tahoma;
