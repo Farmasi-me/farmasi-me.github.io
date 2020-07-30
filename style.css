@@ -24,7 +24,7 @@ margin-left:0;}
 
    .Zagolovok_1
    {font: Tahoma;
-	font-size: 50%;
+	font-size: 250%;
 	color: #fff;
 	position: absolute;
 	padding-top:-80px}
@@ -59,25 +59,25 @@ position: relative;
 	  
 	 .Zagolovok_2 
 	 {font-family: Tahoma;
-	 font-size: 45;
+	 font-size: 200%;
 	 position: relative;
 	 }
     
 	 .Zagolovok_3
 	 {font-family: Tahoma;
-	 font-size: 28;
+	 font-size: 180%;
 	 position: relative;
      }
 	 
 	 .Zagolovok_4
 	 {font-family: Tahoma;
-	 font-size: 35;
+	 font-size: 150%;
 	 position: relative;
      }
 
      .Zagolovok_5
      {font-family: Tahoma;
-	 font-size: 20;
+	 font-size: 120%;
 	 position: relative;
     }
 	  
