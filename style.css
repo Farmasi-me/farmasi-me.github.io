@@ -174,7 +174,7 @@ background: #cf0b0c;
 width: 400px;
 text-align:center;
 padding-top:10%;
-margin-left:45%;
+margin-left:40%;
 position: absolute;}
 
 #conteiner_3.fon_perevagy_3
@@ -210,7 +210,7 @@ width: 400px;
 text-align:center;
 padding-top:0;
 position: relative;
-margin-left:45%;
+margin-left:40%;
 margin-top:35%;
 position: absolute; }
 
@@ -299,7 +299,7 @@ background: #fff;
 width: 100%;
 height: 900px;
 margin-left: 0;
-margin-bottom:300px}
+margin-bottom:-200px}
 
     .button_6
     {font-family: Times New Roman;
