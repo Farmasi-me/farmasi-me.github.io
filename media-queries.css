@@ -2,7 +2,7 @@
 
 @media only screen and (max-width: 1600px)
  .wrapper 
-  {width: 140%;
+  {width: 160%;
   }
 
 
@@ -12,7 +12,7 @@
 @media only screen and (max-width: 1242px)
 	
   .wrapper 
-  {width: 160%;
+  {width: 175%;
   margin: 5%}
 
 
@@ -24,7 +24,7 @@
 @media only screen and (max-width: 992px) 
 	
   .wrapper 
-  {width: 180%;
+  {width: 190%;
   margin: 10%}
 	
 
@@ -32,7 +32,7 @@
 
 @media only screen and (max-width: 768px)  
 	.wrapper 
-	{width: 190%;
+	{width: 200%;
   margin: 15%}
 
 
@@ -41,7 +41,7 @@
 
 @media only screen and (max-width: 480px) 
 	.wrapper 
-	{width: 150%;
+	{width: 220%;
   margin: 20%}
 
 
