@@ -66,7 +66,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/img-6d4729cd9c34a74109789ed1e2a3186a-v-2-1600x1569.jpeg"
       },
       "components": [
         {
