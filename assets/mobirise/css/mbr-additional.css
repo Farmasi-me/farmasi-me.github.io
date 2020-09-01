@@ -1154,28 +1154,6 @@ section.lazy-placeholder:after {
 .cid-s6f5EtwLEh .mbr-section-btn {
   color: #cc2952;
 }
-.cid-s6f5PoIZzi {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
-}
-@media (min-width: 992px) {
-  .cid-s6f5PoIZzi .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s6f5PoIZzi .mbr-figure {
-    padding-top: 3rem;
-  }
-}
-.cid-s6f5PoIZzi .mbr-section-title {
-  color: #232323;
-}
-.cid-s6f5PoIZzi .mbr-text,
-.cid-s6f5PoIZzi .mbr-section-btn {
-  color: #17617a;
-}
 .cid-s6ghORa8ow {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1619,73 +1597,31 @@ section.lazy-placeholder:after {
 .cid-s9kP8bqOuY .mbr-text {
   color: #232323;
 }
-.cid-s6fA1FsVEa {
-  padding-top: 15px;
-  padding-bottom: 30px;
+.cid-s9lQ36WDHv {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #0d0c0c;
 }
-@media (max-width: 767px) {
-  .cid-s6fA1FsVEa .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-s6fA1FsVEa .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-s6fA1FsVEa .media-wrap img {
-  height: 6rem;
-}
-.cid-s6fA1FsVEa .mbr-text {
-  color: #767676;
-}
-@media (max-width: 767px) {
-  .cid-s6fA1FsVEa .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-s6fA1FsVEa .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
-}
-.cid-s6fA1FsVEa .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: flex-end;
-  justify-content: flex-end;
-}
-.cid-s6fA1FsVEa .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
-}
-.cid-s6fA1FsVEa .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-s6fA1FsVEa .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-s6fA1FsVEa .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-s6fA1FsVEa .footer-lower .social-list {
-    -webkit-justify-content: center;
-    justify-content: center;
-  }
-}
-.cid-s6fA1FsVEa .links {
+.cid-s9lQ36WDHv .testimonial-text {
+  font-style: italic;
   color: #ffffff;
+  font-weight: 300;
+  text-align: center;
 }
-.cid-s6fA1FsVEa .copyright > p {
+.cid-s9lQ36WDHv .mbr-author-name {
+  font-weight: bold;
   color: #ffffff;
+  text-align: center;
+}
+.cid-s9lQ36WDHv .mbr-author-desc {
+  color: #ffffff;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-s9lQ36WDHv .mbr-figure,
+  .cid-s9lQ36WDHv img {
+    max-height: 300px;
+    width: auto;
+    margin: auto;
+  }
 }
